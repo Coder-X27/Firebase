@@ -1,9 +1,11 @@
 import React from 'react'
+import Signup from './Pages/Signup';
 
 function App() {
+  
   return (
     <>
-      hi
+      <Signup/>
     </>
   )
 }
